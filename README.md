@@ -4,6 +4,10 @@ This is an updated version of my capstone project from my Data Science and AI ce
 The main project notebook is "Using machine learning to predict climate change".
 If you'd like to see my data cleaning process, feel free to open "Data cleaning and preparation".
 
+I intend to add my presentation file as well once I update it to reflect my revised calculations and include additional visualizations.
+
+
+Data sources:
 
 Temperature change, land use, and forest cover data from the IMF 
 (https://climatedata.imf.org/pages/climatechange-data)
