@@ -1,5 +1,5 @@
 # climate-change-predictions
-This is an updated version of my capstone project from my Data Science and AI certification course.
+This is an updated version of my capstone project from my Data Science and AI certification course. Training 34 metrics on 136 countries data from 1992 to 2010, I used multiple machine learning models to predict a warming trend by country in 2019. Then, using the best-performing model, I made future predictions for 2050.
 
 The main project notebook is "Using machine learning to predict climate change".
 If you'd like to see my data cleaning process, feel free to open "Data cleaning and preparation".
